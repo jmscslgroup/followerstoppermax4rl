@@ -7,9 +7,9 @@
 //
 // Code generated for Simulink model 'followerstoppermax4rl'.
 //
-// Model version                  : 3.44
+// Model version                  : 3.46
 // Simulink Coder version         : 9.5 (R2021a) 14-Nov-2020
-// C/C++ source code generated on : Mon Jul 12 20:45:43 2021
+// C/C++ source code generated on : Thu Aug  5 14:18:10 2021
 //
 // Target selection: ert.tlc
 // Embedded hardware selection: Generic->Unspecified (assume 32-bit Generic)
